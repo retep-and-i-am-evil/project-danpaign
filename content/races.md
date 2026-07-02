@@ -15,5 +15,3 @@ BLOODFIEND(CLASS)
 can create weapons out of blood(resource gained by combat from enemies or own hp)yes can use piercing blood, goes insane if doesnt consume blood for long enough and can only use own blood which drains hp (can use others later) also can spend a action to regenerate hp using blood(has to be others blood), downsides has 30% less max hp, using to much blood causes massive sanity drain and lastly racism.
 FULL CYBORG
 take 10% less dmg gain a enhanced defense action(CLASHABLE Guard ) gains 1 charge a turn, downsides using to much charge at once overheats you (5+) , can only move 75% speed unless supercharged
-
-ghp\_CzAcJywabFsZHYvD8f7QQDTYbOSdHX4GksAa
