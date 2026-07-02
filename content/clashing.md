@@ -1,0 +1,1 @@
+in special battles you will be able to clash with the enemy you are engaging. you may freely clash if you have high initiative but if you have lower initiative then you can only clash with attacks targeting you. clashing causes you and the enemy to roll your damage dice against each other. Winning the clash increases your [[emotion level]] by 1.

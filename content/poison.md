@@ -1,0 +1,1 @@
+While poisoned, take an amount of damage equal to half of your poison stacks every turn, and reduce your stacks of poison by 5. A poisoned creature with an amount of Poison stacks exceeding their constitution score has the poisoned condition. A [[bleeding]] creature makes their poison tick down by 4 each turn, rather than 5. A creature may only have a maximum of 99 Poison.

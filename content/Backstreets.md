@@ -1,0 +1,1 @@
+These are areas within a district that are not regulated by a corporation leading to crime and poverty being the state of life may have to deal with.  Most of the city's population live here and hope to make it into a [[nests]]

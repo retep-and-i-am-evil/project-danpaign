@@ -1,0 +1,1 @@
+Acts as a normal Tremor in terms of infliction and Bursting. For every 10 stacks, Tremor - Chain will inflict the target with 1 Offense Level Down(10% less dmg) when they engage in a clash up to a max of 3.
